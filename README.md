@@ -27,7 +27,7 @@ You can:
 
 ## 🔗 Optional: Figma File Link
 
-> [View the original Figma file](https://www.figma.com/)
+> [View the original Figma files]([https://www.figma.com/](https://www.figma.com/@asharnaveed))
 
 _Note: Access depends on your Figma share settings._
 
