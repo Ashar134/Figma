@@ -25,7 +25,7 @@ You can:
 2. Include version notes or changelogs if design files evolve over time.
 3. Optionally link the live Figma file using a public share link.
 
-## 🔗 Optional: Figma File Link
+## 🔗 Figma File Link
 
 [View the original Figma files](https://www.figma.com/@asharnaveed)
 
